@@ -1,3 +1,3 @@
 # MenjelajahRuangTheGame
 
-MenjelajahRuangTheGame for public, veryone can fork it and play with it
+MenjelajahRuangTheGame for public, feel free to fork it
